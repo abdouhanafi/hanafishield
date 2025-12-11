@@ -1,0 +1,35 @@
+# HANAFISHIELD - Violence Detection System
+# Requirements
+
+# Core ML/AI
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+ultralytics>=8.0.0  # YOLOv8 for pose detection
+transformers>=4.30.0  # For audio classification
+librosa>=0.10.0  # Audio processing
+scikit-learn>=1.3.0
+
+# Computer Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.0  # Pose estimation
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Audio Processing
+pyaudio>=0.2.13
+sounddevice>=0.4.6
+scipy>=1.11.0
+
+# GUI
+customtkinter>=5.2.0  # Modern tkinter
+tkinter-tooltip>=2.1.0
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.65.0
+pyyaml>=6.0
+
+# Optional - for GPU acceleration
+# torch with CUDA (uncomment if you have NVIDIA GPU)
+# --extra-index-url https://download.pytorch.org/whl/cu118
