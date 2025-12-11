@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/hanafishield/{models,data,src,assets}"
+		},
+		{
+			"path": "../../../Desktop/hanafishield/src"
+		},
+		{
+			"path": "../../../Desktop/hanafishield/venv"
+		}
+	],
+	"settings": {}
+}
